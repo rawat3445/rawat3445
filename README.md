@@ -9,6 +9,18 @@
 
 ---
 
+### 🛠 Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+
 ### Featured projects
 | Project | What | Live / Demo |
 |---|---:|---|
@@ -18,9 +30,15 @@
 
 ---
 
-### Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
-## Hi there 👋
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourdomain.com)
+[![Email](https://img.shields.io/badge/Email-rawat@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rawat@example.com)
+
+
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawat3445&show_icons=true&theme=radical)
+
 
 <!--
 **rawat3445/rawat3445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
