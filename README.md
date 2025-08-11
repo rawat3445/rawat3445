@@ -24,7 +24,7 @@
 ### Featured projects
 | Project | What | Live / Demo |
 |---|---:|---|
-| Portfolio | Personal site built with Next.js, MDX blog & SSR | https://yourdomain.com |
+| Decore | Interior or exterior site built with React.js |  https://d-site-peach.vercel.app/ |
 | Flipkart-Clone | Fullstack ecommerce (Stripe, Auth, Cart) | GIF / Live Link |
 | UI Kit | Reusable React components + docs | Storybook / Demo |
 
