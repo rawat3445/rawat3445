@@ -38,6 +38,8 @@
 
 
 ![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawat3445&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rawat3445&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=rawat3445&theme=tokyonight&hide_border=true)
 
 
 <!--
