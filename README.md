@@ -9,14 +9,40 @@
 
 ---
 
-### 🛠 Tech Stack
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+## 💻 Tech Stack
+
+### 🖥️ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,js,ts" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,docker" />
+</p>
+
+### 🎯 Others
+<p>
+  <img src="https://skillicons.dev/icons?i=threejs" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+  <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white" />
+</p>
+
+
+
+
 
 
 
@@ -41,6 +67,13 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rawat3445&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=rawat3445&theme=tokyonight&hide_border=true)
 
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=rawat3445&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+
+💬 **About Me:**  
+I love building fast, accessible, and delightful user experiences. Always learning, always creating.
 
 <!--
 **rawat3445/rawat3445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
