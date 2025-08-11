@@ -25,7 +25,7 @@
 | Project | What | Live / Demo |
 |---|---:|---|
 | Decore | Interior or exterior site built with React.js |  https://d-site-peach.vercel.app/ |
-| Flipkart-Clone | Fullstack ecommerce (Stripe, Auth, Cart) | GIF / Live Link |
+| Flipkart-Clone | Fullstack ecommerce (Stripe, Auth, Cart) | e-commerce-site-iota-three.vercel.app |
 | UI Kit | Reusable React components + docs | Storybook / Demo |
 
 ---
